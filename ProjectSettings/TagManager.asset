@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Pick Up
   - Key Get
+  - Info
+  - collectSound
+  - startTimer
   layers:
   - Default
   - TransparentFX
